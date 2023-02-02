@@ -6,11 +6,26 @@ This Project is to make an Automated Teller Machine with user's Account Number,P
 
 
 To run the project
-1.Download all the code files (total 3)
-2.Store them in a single folder
-3.Either use your Java IDE e.g. Eclipse ,InteliJ or NetBeans
-4.Or in Windows open command prompt and go to project Directory
-5. run command : javac ATM.java
-6. After completion your folder will contain 3 .class files
-7. In command prompt run command: java ATM
-8. Project will start running
+
+Download all the code files (total 3)
+
+
+.Store them in a single folder
+
+.Either use your Java IDE e.g. Eclipse ,InteliJ or NetBeans
+
+
+.Or in Windows open command prompt and go to project Directory
+
+. run command : javac ATM.java
+
+. After completion your folder will contain
+
+ .  .class files
+ 
+ . In command prompt run command: java ATM
+ 
+ Project will start running
+ 
+
+
